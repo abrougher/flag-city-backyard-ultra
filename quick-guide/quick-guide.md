@@ -3,9 +3,16 @@
 
 ## Quick Facts
 
-* **Format**: Backyard Ultra, last-person-standing
+* **Format**: Backyard Ultra, Last Person Standing
 * **Lap**: 4.3 miles each hour
-* **Start**: Saturday, October 4, 2025 at 8:00 AM ET
+* **BIB Pickup**: (Runners MUST pickup their BIB before 7:30 AM morning of the race.)
+  * Friday, October 3, 2025 at 7:00 PM - 9:00 PM 
+  * Saturday, October 4, 2025 at 6:30 AM - 7:30 AM
+* **Race Start**: 
+  * Saturday, October 4, 2025 at 8:00 AM ET
+* **Registration**:
+  * Closed Midnight October 2, 2025
+  * Limit 160 Runners
 * **Location**: Findlay Reservoir (East Side), Findlay, Ohio
 * **Entry fee**: Free
 * **Support**: Self-supported. No food, drink, or supplies provided by the race
@@ -13,39 +20,50 @@
 
 ## Where
 
-* **Venue**: Findlay Reservoir (East Side)
+* **Location**: Findlay Reservoir (East Side)
 * **Maps**: [Google Maps Link](https://maps.app.goo.gl/pnXnPsiV9546S51b9)
 * **Lat/Long**: 41.021, -83.559
-* ![Course Map](./map-east-side.jpg)
+* ![Course Map](./course-start.jpg)
 
 ## Parking, Drop‑off, Camping, Facilities
 
-* **Parking**: In the grass at the base of the reservoir
-* **Drop‑off**: Vehicles may drive to the top to unload only, then return to base parking
-* **Camping**: Tents are allowed to be set up the night before. Camping overnight is allowed
-* **Toilets**: Porta‑johns onsite
+Runners and crew have the option to setup their tent the night before and spend the night on the reservoir. Note: There is no running water available but there will be toilets.
+
+* **Parking**: In the grass at the base of the reservoir.
+* **Drop‑off**: Vehicles may drive to the top to unload only, then return to base parking.
+* **Camping**: Tents are allowed to be set up the night before. Camping overnight is allowed.
+* **Toilets**: Porta‑johns onsite.
 * **Water**: No running water available on site
+* ![Site Layout](./layout.jpg)
+
 
 ## Course
 
 * **Distance**: 4.3 miles per loop
-* **Surface**: Upground reservoir loop. Flat. No roots, no mud
+* **Surface**: Fine Gravel. Flat.
 * **Elevation**: Approximately 0 ft gain per loop
+* ![Course Map](./course-start.jpg)
+* **Direction**: At the start of each lap, a coin is flipped to determine which direction that lap is run.
 
 ## Schedule
 
-* **07:57** whistle sequence at 3, 2, 1 minutes
-* **08:00** first loop starts
-* **Top of every hour** next loop starts
-* Repeats until only one runner remains
+* **Friday, Oct 3rd**
+  * **Noon**: Runners / Crew can setup tents
+  * **6 PM - 9 PM**: Early registration. 
+* **Saturday, Oct 4th**
+  * **6:30 AM - 7:30 AM**: Registration.
+  * **7:45 AM**: Rules Review Talk
+  * **8:00 AM** First Loop Starts
+* **Top of every hour** Next Loop Starts
+* **End**: The race will continue until only one runner remains
 
-## Rules (Backyard Standard as implemented at FCBU)
+## Rules
 
 * Runners must be **in the starting corral** at the start whistle
 * Each loop **starts at the top of the hour**
 * **No late starts**
-* **No leaving the course** during a loop except for restrooms
-* **No personal aid** during a loop; common aid area between loops is allowed
+* **No leaving the course** during a loop except for the restroom
+* **No aid** during a loop
 * Each loop must be completed **within one hour** to count (including the final loop)
 * **No artificial aids** including trekking poles
 * Slower runners must allow passes
@@ -56,15 +74,14 @@
 * **Provided by race**: none
 * **Bring**: all food, drink, lighting, and gear you expect to need
 * **Headlamp**: required for night running
-* **Drop bags**: set up at your camp space near the corral
 
 ## Weather
 
-* **Rain or shine** event in early October. Prepare for wide temperature swings day to night
+* **Rain or shine** Prepare for wide temperature swings day to night
 
 ## Registration
 
-* **Platform**: UltraSignup
+* **Platform**: [UltraSignup](https://ultrasignup.com/entrants_event.aspx?did=120210)
 * **Closes**: Thursday, October 2, 11:59 PM ET
 * **Cost**: \$0
 
@@ -75,16 +92,21 @@
 * **UltraSignup Registration**: [https://ultrasignup.com/register.aspx?did=120210](https://ultrasignup.com/register.aspx?did=120210)
 * **Big’s Backyard Listing**: [https://bigsbackyardultra.com/races/flag-city-backyard-ultra/](https://bigsbackyardultra.com/races/flag-city-backyard-ultra/)
 
-## Past Editions
-
-* **2024**: Winner **Quinn D. Auten** with **19 laps** (≈ 81.7 miles). Third annual event. 46 starters. Assist: **Austin Brougher** with 18 laps
-* **2022**: Event held Saturday, September 3, 2022, 8:00 AM start
-
 ## Crew & Spectators
 
 * Crew may stage in designated camp area near the corral
 * Vehicle access to the top is **drop‑off only**; no vehicle parking on the dike
 * Keep paths clear for runners between loops
+* Keep bathrooms available for runners at the end of each hour
+
+## Leader Board
+
+A leader board will be present to track successfully completed laps.
+
+* Each runner will have a row using thier BIB number.
+* As runners complete a lap, the runner or their crew will update the board with an 'X' when they complete a lap.
+* If a runner fails to complete a lap in time or drops from the race, the lap they fail to complete is marked "DNF". 
+* Runners or Crew 
 
 ## Safety & Conduct
 
@@ -98,19 +120,3 @@
 * Self-managed first aid; call 911 for emergencies
 * Provide emergency contact info on your bib or person
 
-## Open Items / To Confirm
-
-* Exact corral layout and camp layout map
-* Onsite signage locations and start/finish arch placement
-* Generator use policy and quiet hours (if any)
-* Pacers policy between loops (on-course pacers not allowed during loops per backyard rules)
-* Post-race awards or recognition plan
-* Volunteer call and roles schedule
-
----
-
-### Organizer Notes (internal)
-
-* Keep UltraSignup page updated with any changes to parking, camping, or rules
-* Pin this doc link in the Facebook group and include in pre-race email
-* Upload any course image or simple loop diagram when available

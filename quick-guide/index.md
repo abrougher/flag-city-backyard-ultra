@@ -1,4 +1,4 @@
-# Flag City Backyard Ultra — Guide
+# Flag City Backyard Ultra — Runners Guide
 *Last updated: 2025-09-20*
 
 ## Quick Facts

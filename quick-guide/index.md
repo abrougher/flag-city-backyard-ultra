@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: default   # uses your theme’s default layout
+layout: none
 ---
 # Flag City Backyard Ultra — Runners Guide
 *Last updated: 2025-09-20*

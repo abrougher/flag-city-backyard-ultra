@@ -1,5 +1,5 @@
 ---
-title: Flag City Backyard Ultra — Runners Guide
+title: ""
 layout: default   # uses your theme’s default layout
 ---
 # Flag City Backyard Ultra — Runners Guide

@@ -1,3 +1,7 @@
+---
+title: Flag City Backyard Ultra — Runners Guide
+layout: default   # uses your theme’s default layout
+---
 # Flag City Backyard Ultra — Runners Guide
 *Last updated: 2025-09-20*
 

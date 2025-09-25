@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: none
+layout: default
 ---
 # Flag City Backyard Ultra — Runners Guide
 *Last updated: 2025-09-20*
